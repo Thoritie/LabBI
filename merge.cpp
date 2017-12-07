@@ -6,7 +6,6 @@
 using namespace std;
 int main () {
     string line;
-    string word = "Unmarried";
     int count = 0;
     
     typedef map<string, int> line_record;
