@@ -66,7 +66,7 @@ int main () {
                 lines.insert(make_pair(line,line_number));
                 ++line_number;
                 
-                find("adult	High	higher education	Not-in-family	unrelative	Male	gain	relax	United-States	<=50K");
+                find(line);
                 count++;
             }
             
